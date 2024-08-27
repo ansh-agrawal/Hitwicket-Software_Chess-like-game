@@ -1,0 +1,14 @@
+{
+  "mode": [
+    "analysis",
+    "loadfen",
+    "playfriend"
+  ],
+  "fen": "string",
+  "color": [
+    "w",
+    "b"
+  ],
+  "min": "int",
+  "increment": "int"
+}
